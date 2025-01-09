@@ -12,7 +12,7 @@ This repository contains a custom object detection model for detecting Egyptian 
 
 ## Installation
 1. Clone the repository:
-   git clone [(https://github.com/NouraMaklad/Egyptian-pound-and-half-pound-detection-using-Yolov5.git)]
+   git clone https://github.com/NouraMaklad/Egyptian-pound-and-half-pound-detection-using-Yolov5.git
 2. Navigate to the project directory:
    cd Egyptian pound and half-pound detection using Yolov5
 3. Install required packages:
@@ -21,12 +21,12 @@ This repository contains a custom object detection model for detecting Egyptian 
 1. **Money Counter:**
  - Input: Image of pounds and half-pounds.
  - Command to run:
-      python money_counter.py [input-image]
+      - python money_counter.py [input-image]
  - Output: Annotated image with the total amount.
 2. **Size with a Pound:**
  - Input: Image of a pound next to a bottle.
  - Command to run:
-      python size_with_pound.py [input-image]
+      - python size_with_pound.py [input-image]
  - Output: Annotated image with the bottle dimensions.
 ## Performance
 The model achieves an accuracy of 95% in detecting currency notes and processes images in under 2 seconds.
