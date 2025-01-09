@@ -12,9 +12,9 @@ This repository contains a custom object detection model for detecting Egyptian 
 
 ## Installation
 1. Clone the repository:
-   git clone [repository-url]
+   git clone [(https://github.com/NouraMaklad/Egyptian-pound-and-half-pound-detection-using-Yolov5.git)]
 2. Navigate to the project directory:
-   cd
+   cd Egyptian pound and half-pound detection using Yolov5
 3. Install required packages:
    pip install -r requirements.txt
 ## Usage
